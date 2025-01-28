@@ -52,5 +52,7 @@ public class Page {
         elements.add(new Link("https://github.com/florentBourgeois", "Lien par défault"));
 
         Page page = new Page(elements);
+        System.out.println(page.toHTML());
+        UtilsHTML.writeHTMLToIndex(page.toHTML());
     }
 }

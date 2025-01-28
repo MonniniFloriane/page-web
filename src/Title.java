@@ -1,6 +1,6 @@
 public class Title implements Element {
-    private int nivTitle = 1;
-    private String titre = "MA PAGE WEB";
+    private int nivTitle = 0;
+    private String titre = "";
 
     public Title() {}
 

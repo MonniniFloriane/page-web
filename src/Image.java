@@ -1,6 +1,6 @@
 public class Image implements Element {
-    private String src = "https://picsum.photos/800/300";
-    private String alt = "image ramdom";
+    private String src = "";
+    private String alt = "";
 
 
     public Image() {}

@@ -1,6 +1,6 @@
 public class Link implements Element {
-    private String url  = "https://github.com/florentBourgeois";
-    private String text = "Lien par défault";
+    private String url  = "";
+    private String text = "";
 
     public Link() {}
 

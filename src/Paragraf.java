@@ -1,5 +1,5 @@
 public class Paragraf implements Element {
-    private String text = "Mise en pratique des concepts objets et des outils de conception avancés offert par le framework Java + Java Spring pour la création d'un paint distribué ";
+    private String text = "";
 
     public Paragraf() {}
 
